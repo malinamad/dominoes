@@ -26,7 +26,7 @@ Before placing a domino piece, the piece must have a number
 that will match the end of the snake regardless of the side 
 
 ## Installation
-To run this program, Python 3 version is required to be installed on your computer. 
+To run this program, [Python 3](https://www.python.org/downloads/) version is required to be installed on your computer. 
 You can download it from the Python website.
 
 To install the program, simply clone this repository to your local machine:
@@ -38,3 +38,5 @@ To start a game, navigate to the directory where the repository was cloned and r
 
 `python dominoes.py`
 
+## Made with
+* Python
